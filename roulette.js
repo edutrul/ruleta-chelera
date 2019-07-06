@@ -26,7 +26,7 @@ $(function() {
 		"Luis",
 		"Pame",
 		"Chino",
-		"Anna",
+		"Pamela",
 		"Adonis",
 		"Mayteelson",
 		"Pieer",
