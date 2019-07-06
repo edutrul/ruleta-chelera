@@ -6,21 +6,33 @@ $(function() {
 	 *
 	 */
 	var prizes = [
-	//	"Macbook\nPro",
-	//	"Mac\nMini",
-	//	"iPad",
-	//	"iPhone",
-	//	"Macbook\n	Air",
-	//	"Apple TV",
-	//	"Mac Pro",
-	//	"Bean",
- 		"Eduardo",
+ 		"Giampieer",
+ 		"Cristhoper",
+ 		"Cristhan D",
+ 		"Harold",
+ 		"Anthony",
+ 		"Ariana",
+ 		"Sheyla",
+ 		"Estefany",
+ 		"Andrea",
+ 		"Aldair",
+ 		"Horiana",
+ 		"Angelo",
+ 		"Arnol",
+ 		"Joaquin",
+ 		"Jhon",
+ 		"Marieta",
+ 		"Angel",
 		"Luis",
+		"Benji",
+		"Chino",
+		"Anna",
+		"Mayteelson",
 ];
 
 	var scaleFactor = 0.17; // large decimal is bigger font
 	var fontColor = "#FFFFFF" // color of prize text
-	var color = ["#8dc653", "#78bde7", "#d4de57", "#71afac"]; // alternating gaming peice colors
+	var color = ["#8dc653", "#78bde7", "#d4de57", "#71afac", "#FF9900"]; // alternating gaming peice colors
 	var random = [744, 3478]; // [minimum number of rotations in degrees, max number of rotations]
 	var seconds = 8000;  // how long animation runs
 	var colorArrow = ["#000000", "#000000", 4]; // [fill color, border color, border width]
