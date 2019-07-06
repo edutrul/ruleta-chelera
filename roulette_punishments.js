@@ -14,7 +14,7 @@ $(function() {
  		"V. Agua",
  		"Baile",
  		"Canta",
- 		"Rapen",
+ 		"Rapear",
 ];
 
 	var scaleFactor = 0.17; // large decimal is bigger font

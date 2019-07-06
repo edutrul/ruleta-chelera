@@ -29,6 +29,7 @@ $(function() {
 		"Anna",
 		"Adonis",
 		"Mayteelson",
+		"Pieer",
 ];
 
 	var scaleFactor = 0.17; // large decimal is bigger font
