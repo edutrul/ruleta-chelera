@@ -24,7 +24,6 @@ $(function() {
  		"Marieta",
  		"Angel",
 		"Luis",
-		"Pame",
 		"Chino",
 		"Pamela",
 		"Adonis",
