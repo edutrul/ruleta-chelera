@@ -6,34 +6,20 @@ $(function() {
 	 *
 	 */
 	var prizes = [
- 		"Giampieer",
- 		"Cristhoper",
- 		"Cristhan D",
- 		"Harold",
- 		"Anthony",
- 		"Ariana",
- 		"Sheyla",
- 		"Estefany",
- 		"Andrea",
- 		"Aldair",
- 		"Horiana",
- 		"Angelo",
- 		"Arnol",
- 		"Joaquin",
- 		"Jhon",
- 		"Marieta",
- 		"Angel",
-		"Luis",
-		"Benji",
-		"Chino",
-		"Anna",
-		"Adonis",
-		"Mayteelson",
+ 		"V. Chela",
+ 		"V. Vino",
+ 		"Mojito",
+ 		"V. Pisco",
+ 		"V. Ron",
+ 		"V. Agua",
+ 		"Baile",
+ 		"Canta",
+ 		"Rapen",
 ];
 
 	var scaleFactor = 0.17; // large decimal is bigger font
 	var fontColor = "#FFFFFF" // color of prize text
-	var color = ["#ff0099", "#6535f5", "#30CE86", "#F3D53F", "#F99922"];//, "#8dc653", "#78bde7", "#d4de57", "#71afac", "#FF9900"]; // alternating gaming peice colors
+	var color = ["#8dc653", "#78bde7", "#d4de57", "#71afac", "#FF9900"]; // alternating gaming peice colors
 	var random = [744, 3478]; // [minimum number of rotations in degrees, max number of rotations]
 	var seconds = 8000;  // how long animation runs
 	var colorArrow = ["#000000", "#000000", 4]; // [fill color, border color, border width]
