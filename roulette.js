@@ -16,10 +16,6 @@ $(function() {
 	//	"Bean",
  		"Eduardo",
 		"Luis",
-          //      "Yorych",
- 	//	"Yoselyn",
-	//	"Evelyn",
-	//	"Karen",
 ];
 
 	var scaleFactor = 0.17; // large decimal is bigger font
