@@ -24,12 +24,13 @@ $(function() {
  		"Marieta",
  		"Angel",
 		"Luis",
-		"Benji",
+		"Pame",
 		"Chino",
 		"Anna",
 		"Adonis",
 		"Mayteelson",
 		"Pieer",
+		"Dany",
 ];
 
 	var scaleFactor = 0.17; // large decimal is bigger font

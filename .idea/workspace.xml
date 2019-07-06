@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b044efc-5066-469d-9ae8-b6212bc422df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WhatsApp Image 2019-07-06 at 15.55.11.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/eduthon.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/castigos.html" beforeDir="false" afterPath="$PROJECT_DIR$/castigos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roulette.js" beforeDir="false" afterPath="$PROJECT_DIR$/roulette.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roulette_punishments.js" beforeDir="false" afterPath="$PROJECT_DIR$/roulette_punishments.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/roulette.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            <state relative-caret-position="290">
+              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -77,10 +72,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1087" />
+    <option name="x" value="191" />
     <option name="y" value="23" />
     <option name="width" value="732" />
-    <option name="height" value="1015" />
+    <option name="height" value="576" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,14 +133,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4099000" />
+    <option name="totallyTimeSpent" value="4459000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1087" y="23" width="732" height="1015" extended-state="0" />
+    <frame x="191" y="23" width="732" height="576" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.496208" visible="true" weight="0.33755276" />
-      <window_info id="Structure" order="1" sideWeight="0.503792" side_tool="true" weight="0.33755276" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49586776" visible="true" weight="0.33755276" />
+      <window_info id="Structure" order="1" sideWeight="0.5041322" side_tool="true" weight="0.33755276" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -215,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/roulette.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        <state relative-caret-position="290">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
     </entry>
